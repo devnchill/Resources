@@ -1,0 +1,34 @@
+# Resources for Learning Systems Programming
+
+A collection of valuable materials for understanding systems programming.
+
+## Operating Systems
+
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [MIT 6.S081 Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2020/index.html)
+- [Stanford CS140e](https://cs140e.sergio.bz/)
+- [Berkeley CS162](https://cs162.org/)
+
+## Systems Programming in C
+
+- [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- [Harvard CS50 (Week 4 - Memory)](https://cs50.harvard.edu/x/2021/weeks/4/)
+- [CS107 (Stanford - Computer Organization and Systems)](https://web.stanford.edu/class/cs107/)
+
+## Rust and Modern Approaches
+
+- [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+- [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
+
+## Systems Programming Tools
+
+- [GNU Coreutils Manual](https://www.gnu.org/software/coreutils/manual/)
+- [Linux From Scratch](https://www.linuxfromscratch.org/)
+- [strace man page](https://man7.org/linux/man-pages/man1/strace.1.html)
+
+## Kernel and OS Internals
+
+- [Linux Kernel Development (Robert Love)](https://amzn.to/3EklDZD)
+- [Linux Device Drivers (free book)](https://lwn.net/Kernel/LDD3/)
+- [Xv6 - Unix V6 port](https://pdos.csail.mit.edu/6.828/2018/xv6.html)
