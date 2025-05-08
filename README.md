@@ -11,7 +11,8 @@ A collection of valuable materials for understanding systems programming.
 
 ## Systems Programming in C
 
-- [Computer Systems: A Programmer's Perspective](books/Computer_Systems_A_Programmer's_Perspective.pdf)
+- [Computer Systems: A Programmer's Perspective (pdf)](books/Computer_Systems_A_Programmer's_Perspective.pdf)
+- [C Programming - A Modern Approach (pdf)](books/C_Programming_A_Modern_Approach.pdf)
 - [Harvard CS50 (Week 4 - Memory)](https://cs50.harvard.edu/x/2021/weeks/4/)
 - [CS107 (Stanford - Computer Organization and Systems)](https://web.stanford.edu/class/cs107/)
 
