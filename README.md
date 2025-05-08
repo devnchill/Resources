@@ -22,6 +22,7 @@ A collection of valuable materials for understanding systems programming.
 - [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
+- [Build A Text Editor In Rust](https://philippflenker.com/hecto/)
 
 ## Systems Programming Tools
 
