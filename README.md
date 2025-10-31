@@ -16,20 +16,6 @@ A collection of valuable materials for understanding systems programming.
 - [Harvard CS50 (Week 4 - Memory)](https://cs50.harvard.edu/x/2021/weeks/4/)
 - [CS107 (Stanford - Computer Organization and Systems)](https://web.stanford.edu/class/cs107/)
 
-## Rust and Modern Approaches
-
-- [Rust for Beginners](https://rust-book.cs.brown.edu/experiment-intro.html)
-- [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
-- [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
-- [Writing an OS in Rust](https://os.phil-opp.com/)
-- [Build A Text Editor In Rust](https://philippflenker.com/hecto/)
-
-## Systems Programming Tools
-
-- [GNU Coreutils Manual](https://www.gnu.org/software/coreutils/manual/)
-- [Linux From Scratch](https://www.linuxfromscratch.org/)
-- [strace man page](https://man7.org/linux/man-pages/man1/strace.1.html)
-
 ## Kernel and OS Internals
 
 - [Linux Kernel Development (Robert Love)](https://amzn.to/3EklDZD)
@@ -48,3 +34,4 @@ A collection of valuable materials for understanding systems programming.
 ## Low-Level Programming
 
 - [Low-Level-Programming(pdf)](/books/LowLevelProgramming.pdf)
+- [Elements of Computing System](/books/Elements_of_Computing_Systems.pdf)
