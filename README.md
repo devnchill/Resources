@@ -6,8 +6,6 @@ A collection of valuable materials for understanding systems programming.
 
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [MIT 6.S081 Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2020/index.html)
-- [Stanford CS140e](https://cs140e.sergio.bz/)
-- [Berkeley CS162](https://cs162.org/)
 
 ## Systems Programming in C
 
@@ -33,5 +31,5 @@ A collection of valuable materials for understanding systems programming.
 
 ## Low-Level Programming
 
-- [Low-Level-Programming(pdf)](/books/LowLevelProgramming.pdf)
-- [Elements of Computing System](/books/Elements_of_Computing_Systems.pdf)
+- [Low-Level-Programming (PDF)](/books/LowLevelProgramming.pdf)
+- [Elements of Computing System (PDF)](/books/Elements_of_Computing_Systems.pdf)
